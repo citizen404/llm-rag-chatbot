@@ -28,7 +28,7 @@ cost/latency trade-offs rather than domain claims.
 ---
 
 ## Architecture
-
+```
 User Input
 ├── Structured data (name, birth date, time, location)
 └── Free-form question
@@ -42,7 +42,7 @@ Vector Store (Embeddings)
 Context Assembly
 ↓
 LLM Response
-
+```
 ---
 
 ## Data Sources
